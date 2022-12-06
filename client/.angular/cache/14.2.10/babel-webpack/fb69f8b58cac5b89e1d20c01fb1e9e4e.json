@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Option {\n  constructor(text) {\n    this.text = text;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

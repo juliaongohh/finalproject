@@ -1,9 +1,4 @@
-/*******************************
- * File name: surveyResponse.js
- * Name: Pak Wah Wong
- * StudentID: 301255741
- * Date: 2022.11.11
-*******************************/
+
 
 // require modules for the Survey Response model
 let mongoose = require('mongoose');

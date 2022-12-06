@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Question {\n  constructor() {\n    this._id = (Math.random() + 1).toString(36).substring(7);\n    this.questionOptions = [];\n    this.questionOptionObjs = [];\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

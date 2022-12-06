@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class UserResponse {\n  constructor(questionId, response, question) {\n    this.questionId = questionId;\n    this.response = response;\n    this.question = question;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
